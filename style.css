@@ -1,0 +1,149 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+.text-align{
+    text-align: center;
+    font-weight:900;
+    font-size: 40px;
+    margin-bottom: 15px;
+
+}
+
+.main-div{
+    width: 100%;
+}
+.first{
+    margin-top: 10px;
+    width: 100%;
+    height: 40px;
+}
+.AaaA{
+    margin-top: 10px;
+    width: 80%;
+    height: 40px;
+    float: left;
+}
+.BbbB{
+    margin-top: 10px;
+    width: 5%;
+    height: 40px;
+    float: left;
+}
+.CccC{
+    margin-top: 10px;
+    width: 5%;
+    height: 40px;
+    float: left;
+}
+.DddD{
+    margin-top: 10px;
+    width: 5%;
+    height: 40px;
+    float: left;
+}
+.Aa{
+    text-align:left;
+    font-family: initial;
+}
+.outbox{
+    width: 100%;
+    height: fit-content;   
+}
+.box1{
+    width: 30%;
+    height: 200px;
+    border: 20px;
+    border-radius: 5%;
+}
+img
+{
+    width: 30%;
+    height: fit-content;
+    border: 200px;
+    border-radius: 5%;
+    float: left;
+    margin: 20px;
+}
+.p1{
+    
+    font-weight:700;
+    font-size: 20px;
+    margin-bottom: 25px;
+    text-align: justify; 
+}
+.d{
+    font-size: 20px;
+    font-weight: 700;
+}
+.md{
+    margin-bottom: 45px;
+    font-weight: 700;
+    color: #232323;
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+}
+.nd{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    src: url(https://crystallinestudio.com/blogimages/Crystalline-Photography-4.jpg);
+}
+
+.img{
+    float: left;
+}
+.btn {
+    margin-left: 50%;
+    display: inline-block;
+    border: 2px ;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #212529;
+    text-align: right;
+    text-decoration: none;
+}
+.font-size{
+    color: aliceblue    ;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: monospace;
+}
+.color{
+    color: rgb(230, 230, 243);
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 300;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.margin{
+    font-size: 30px;
+    padding: 4px 24px;
+    margin-top: 35px;
+    font-weight: 400;
+    font-family: monospace;
+    color: azure;
+}
+.about{
+    text-align: center;
+    font-family: sans-serif;
+    margin: 10%;
+}
+.h1{
+    font-size: 35px;
+    font-weight: 600;
+    font-family: monospace;
+}
+.table{
+    width: 100%;
+    color:#fff;
+
+}
+.link{
+    text-align: center;
+}
